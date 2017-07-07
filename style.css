@@ -1,0 +1,10 @@
+.h1{
+	font-weight: bold;
+	word-spacing: 0.05em;
+	letter-spacing: 0.02em;
+}
+.p{
+	word-spacing: 0.05em;
+	letter-spacing: 0.02em;
+	font-family: "Times New Roman";serif
+}
